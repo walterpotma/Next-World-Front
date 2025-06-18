@@ -1,0 +1,20 @@
+# Arquivos do Docker
+Dockerfile
+.dockerignore
+
+# Dependências e cache
+node_modules
+.next
+npm-debug.log
+yarn-error.log
+
+# Configurações locais e segredos
+.env.local
+.env*.test
+
+# Git
+.git
+.gitignore
+
+# Outros
+README.md
